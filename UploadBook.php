@@ -2,8 +2,8 @@
 // Database connection (as before)
 $servername = "localhost";
 $username = "root";
-$password = "root2714"; // Your database password
-$dbname = "bookshelf"; // Your database name
+$password = ""; // Your database password
+$dbname = ""; // Your database name
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
